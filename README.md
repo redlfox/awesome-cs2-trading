@@ -8,13 +8,14 @@
 - [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade) - Automate CSFloat trade, written in python and based on aiosteampy.
 - [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market 
 - [Casemove](https://github.com/nombersDev/casemove) - A dedicated desktop app that enables you to move items in and out of storage units in CS2.
-- [node-globaloffensive](https://github.com/DoctorMcKay/node-globaloffensive) - A Node.js module to connect to and interact with the CS2 game coordinator. Mostly used to get item data. 
-###Information
+- [node-globaloffensive](https://github.com/DoctorMcKay/node-globaloffensive) - A Node.js module to connect to and interact with the CS2 game coordinator. Mostly used to get item data.
+
+### Information
 
 - [SteamTradingSiteTracker-Data](https://github.com/EricZhu-42/SteamTradingSiteTracker-Data) - Data dumps for SteamTradingSiteTracker (www.iflow.work)
 - [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898 )
 
-###Browser Tools
+### Browser Tools
 
 - [Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market. 
 - [csgo-trader-extension](https://github.com/gergelyszabo94/csgo-trader-extension) - CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more
