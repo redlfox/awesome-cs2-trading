@@ -11,14 +11,6 @@
 - [buff2steam](https://github.com/hldh214/buff2steam) - Find item which cheaper than steamcommunity from buff
 - [ruff](https://github.com/Lol3rrr/ruff) - A Prometheus exporter for buff163
 
-### Monitoring
-
-- [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market
-- [steam_csfloat_rust](https://github.com/Soniclev/steam_csfloat_rust) - Csfloat.com to Steam price monitoring
-- [cs2_skins_crawler](https://github.com/andr3i-f/cs2_skins_crawler) - Monitors CS2 skin marketplaces for good discounts
-- [CS Skins Marketplace Scraper](https://github.com/white67/cs_skins_scraper) - Real-time marketplace scraper to track and find favorite items
-- [FloatMon](https://github.com/icryo/FloatMon) - A Discord bot for monitoring new CS:GO item listings based on specific search parameters.
-
 ### Information
 
 - [SteamDT](https://steamdt.com/en) - SteamDT CS Skin Price Trends_CS2 Market Overview_CSGO Skin Market_CS Skin Index_CS2 Inventory Valuation
@@ -27,6 +19,14 @@
 - [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898.
 - [vice](https://github.com/Delioos/vice) - counter strike third party sites price aggregator
 - [cs2-items-schema](https://github.com/somespecialone/cs2-items-schema) - 📖 Schema of CS2 (ex. CSGO) items
+
+### Monitoring
+
+- [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market
+- [steam_csfloat_rust](https://github.com/Soniclev/steam_csfloat_rust) - Csfloat.com to Steam price monitoring
+- [cs2_skins_crawler](https://github.com/andr3i-f/cs2_skins_crawler) - Monitors CS2 skin marketplaces for good discounts
+- [CS Skins Marketplace Scraper](https://github.com/white67/cs_skins_scraper) - Real-time marketplace scraper to track and find favorite items
+- [FloatMon](https://github.com/icryo/FloatMon) - A Discord bot for monitoring new CS:GO item listings based on specific search parameters.
 
 ### Browser Tools
 
