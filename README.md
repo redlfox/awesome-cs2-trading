@@ -19,6 +19,7 @@
 - [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898.
 - [vice](https://github.com/Delioos/vice) - counter strike third party sites price aggregator
 - [cs2-items-schema](https://github.com/somespecialone/cs2-items-schema) - 📖 Schema of CS2 (ex. CSGO) items
+- [CS2 trading sites - complete list](https://docs.google.com/spreadsheets/d/1qrNxvPJOLIg4ZKV_fv3YzY7c95WXad_y8d99M7K4RLM/edit?usp=sharing) - from reddit user u/MindReflex that posted this many times.
 
 ### Monitoring
 
