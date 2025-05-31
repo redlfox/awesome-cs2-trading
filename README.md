@@ -40,6 +40,8 @@
 ### Libraries
 
 - [aiosteampy](https://github.com/somespecialone/aiosteampy) - Trade and interact with Steam market, WebAPI, SteamGuard.
+- [steam.py](https://github.com/Gobot1234/steam.py) - An async python wrapper to interact with the Steam API and its CMs
+- [steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
 - [skinport.py](https://github.com/PaxxPatriot/skinport.py) - An API wrapper for the Skinport API written in Python.
 - [cs-float-scripts](https://github.com/JA-Marshall/cs-float-scripts) - library for interacting with the cs float api
 - [skinport](https://github.com/barnumbirr/skinport) - A Python wrapper around the Skinport API.
