@@ -4,7 +4,7 @@
 ### General
 
 - [SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn. 
-- [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/delivering solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
+- [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/shipment solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
 - [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade) - Automate CSFloat trade, written in python and based on aiosteampy.
 - [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market 
 - [Casemove](https://github.com/nombersDev/casemove) - A dedicated desktop app that enables you to move items in and out of storage units in CS2.
