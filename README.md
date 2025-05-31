@@ -37,7 +37,7 @@
 - [CSFloat Market Checker(extension)](https://github.com/csfloat/extension) - Shows the float value, paint seed, and more of Counter-Strike (CS:GO & CS2) items on the Steam Market or Inventories
 - [BetterFloat(extension)](https://github.com/GODrums/BetterFloat) - Enhance your website experience on 9+ CS2 skin markets
 - [Augmented Steam(extension)](https://chromewebstore.google.com/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp) - Augmented Steam is a browser extension by IsThereAnyDeal that improves your experience on the Steam platform by providing helpful information and tons of customization options.
-- [Steam Market Price Moving Average(userscript)](https://greasyfork.org/en/scripts/491198-steam-%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%A0%BC%E5%9D%87%E7%BA%BF) - Displays the moving average for any date on the historical transaction prices on the Steam market.
+- [Steam Market Price Moving Average(userscript, Chinese Only)](https://greasyfork.org/en/scripts/491198-steam-%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%A0%BC%E5%9D%87%E7%BA%BF) - Displays the moving average for any date on the historical transaction prices on the Steam market.
 - [Steam Market Extender(extension, old)](https://github.com/AcornEyes/SteamMarketExtender) - Detailed graphs for the steam community market. Indicators added to chart: SMA, EMA, RSI, ATR.
 - [markets-scripts(javascript)](https://github.com/ricardocefet2018/markets-scripts)
 
