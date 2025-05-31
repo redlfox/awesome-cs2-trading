@@ -6,6 +6,7 @@
 - [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/shipment solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
 - [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade) - Automate CSFloat trade, written in python and based on aiosteampy.
 - [Casemove](https://github.com/nombersDev/casemove) - A dedicated desktop app that enables you to move items in and out of storage units in CS2.
+- [Skinledger](https://skinledger.com/) - From the creator of Casemove, Skinledger is a all-in-one desktop client and web app for tracking your skins.
 - [node-globaloffensive](https://github.com/DoctorMcKay/node-globaloffensive) - A Node.js module to connect to and interact with the CS2 game coordinator. Mostly used to get item data.
 - [buff2steam](https://github.com/hldh214/buff2steam) - Find item which cheaper than steamcommunity from buff
 - [ruff](https://github.com/Lol3rrr/ruff) - A Prometheus exporter for buff163
@@ -19,6 +20,7 @@
 
 ### Information
 
+- [SteamDT](https://steamdt.com/en) - SteamDT CS Skin Price Trends_CS2 Market Overview_CSGO Skin Market_CS Skin Index_CS2 Inventory Valuation
 - [CS2 Case Tracker](https://csgocasetracker.com) - Tracking the volume of CS2 cases unboxed.
 - [SteamTradingSiteTracker-Data](https://github.com/EricZhu-42/SteamTradingSiteTracker-Data) - Data dumps for SteamTradingSiteTracker (www.iflow.work)
 - [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898.
@@ -28,6 +30,7 @@
 
 - [Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
 - [csgo-trader-extension](https://github.com/gergelyszabo94/csgo-trader-extension) - CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more
+- [BetterFloat](https://github.com/GODrums/BetterFloat) - Enhance your website experience on 9+ CS2 skin markets
 - [markets-scripts](https://github.com/ricardocefet2018/markets-scripts)
 
 ### Libraries
