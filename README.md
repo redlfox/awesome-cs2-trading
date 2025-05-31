@@ -15,6 +15,7 @@
 - [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market
 - [steam_csfloat_rust](https://github.com/Soniclev/steam_csfloat_rust) - Csfloat.com to Steam price monitoring
 - [cs2_skins_crawler](https://github.com/andr3i-f/cs2_skins_crawler) - Monitors CS2 skin marketplaces for good discounts
+- [cs_skins_scraper](https://github.com/white67/cs_skins_scraper) - CS Skins Marketplace Scraper - Real-time marketplace scraper to track and find favorite items
 
 ### Information
 
@@ -26,6 +27,7 @@
 
 - [Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
 - [csgo-trader-extension](https://github.com/gergelyszabo94/csgo-trader-extension) - CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more
+- [markets-scripts](https://github.com/ricardocefet2018/markets-scripts)
 
 ### Libraries
 
@@ -35,6 +37,7 @@
 - [skinport](https://github.com/barnumbirr/skinport) - A Python wrapper around the Skinport API.
 - [gfapi](https://github.com/gameflip/gfapi) - Node.js API bindings and sample code create Gameflip listings for Steam items
 - [skinport.js](https://github.com/realBoltDev/skinport.js) - A fully typed package for interacting with Skinport API.
+- [cs2-inspect-service](https://github.com/pricempire/cs2-inspect-service) - CS2 Inspect Server
 
 ### Investment Analysis
 
@@ -44,3 +47,4 @@
 
 - [SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
 - [CSGOHunt.com-Copy](https://github.com/Baterka/CSGOHunt.com-Copy) - Almost identical copy of CSGOHunt.com
+- [CSTradeWebsite](https://github.com/PhanuphongSariten/CSTradeWebsite) - WebsiteAutomateSystemForCS - A website that collects product URL links, and can edit the URL links, including importing Dashboard data from product pages in Spreadsheets - written in Html
