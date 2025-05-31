@@ -26,6 +26,7 @@
 - [SteamTradingSiteTracker-Data](https://github.com/EricZhu-42/SteamTradingSiteTracker-Data) - Data dumps for SteamTradingSiteTracker (www.iflow.work)
 - [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898.
 - [vice](https://github.com/Delioos/vice) - counter strike third party sites price aggregator
+- [cs2-items-schema](https://github.com/somespecialone/cs2-items-schema) - 📖 Schema of CS2 (ex. CSGO) items
 
 ### Browser Tools
 
