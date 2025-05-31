@@ -12,8 +12,9 @@
 
 ### Information
 
+- [CS2 Case Tracker](https://csgocasetracker.com) - Tracking the volume of CS2 case unboxed.
 - [SteamTradingSiteTracker-Data](https://github.com/EricZhu-42/SteamTradingSiteTracker-Data) - Data dumps for SteamTradingSiteTracker (www.iflow.work)
-- [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898 )
+- [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898.
 
 ### Browser Tools
 
