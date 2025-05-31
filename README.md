@@ -1,9 +1,8 @@
-# Awesome Counter-Strike 2 Trade [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> 😎 A curated list of packages and resources regarding Steam Market and Counter-Strike 2 trade.
+# Awesome Counter-Strike 2 Marketing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> 😎 A curated list of packages and resources regarding Steam Market and Counter-Strike 2 marketing.
 
 ### General
 
-- [SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
 - [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/shipment solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
 - [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade) - Automate CSFloat trade, written in python and based on aiosteampy.
 - [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market
@@ -29,3 +28,13 @@
 - [aiosteampy](https://github.com/somespecialone/aiosteampy) - Trade and interact with Steam market, WebAPI, SteamGuard.
 - [skinport.py](https://github.com/PaxxPatriot/skinport.py) - An API wrapper for the Skinport API written in Python.
 - [cs-float-scripts](https://github.com/JA-Marshall/cs-float-scripts) - library for interacting with the cs float api
+- [skinport](https://github.com/barnumbirr/skinport) - A Python wrapper around the Skinport API.
+
+### Investment Analysis
+
+- [csgo_investment](https://github.com/ShevonKuan/csgo_investment) - CSGO investment tracking dashboard. 可以追踪库存在buff和悠悠有品的价格并进行投资相关分析。
+
+### Web Services
+
+- [SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
+- [CSGOHunt.com-Copy](https://github.com/Baterka/CSGOHunt.com-Copy) - Almost identical copy of CSGOHunt.com
