@@ -43,6 +43,7 @@
 - [skinport.js](https://github.com/realBoltDev/skinport.js) - A fully typed package for interacting with Skinport API.
 - [cs2-inspect-service](https://github.com/pricempire/cs2-inspect-service) - CS2 Inspect Server
 - [CSFloat Async API Client (Unofficial)](https://github.com/Rushifakami/csfloat_api) - An unofficial, asynchronous Python library for interacting with the CSFloat API. This library provides full support for programmatic access to listings, buy orders, user data, exchange rates, and more. All prices returned by the server are in cents.
+- [csfloat.py](https://github.com/PaxxPatriot/csfloat.py) - An API wrapper for the CSFloat API written in Python.
 
 ### Investment Analysis
 
