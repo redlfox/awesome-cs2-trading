@@ -48,7 +48,6 @@
 - [skinport.py](https://github.com/PaxxPatriot/skinport.py) - An API wrapper for the Skinport API written in Python.
 - [cs-float-scripts](https://github.com/JA-Marshall/cs-float-scripts) - library for interacting with the cs float api
 - [skinport](https://github.com/barnumbirr/skinport) - A Python wrapper around the Skinport API.
-- [gfapi](https://github.com/gameflip/gfapi) - Node.js API bindings and sample code create Gameflip listings for Steam items
 - [skinport.js](https://github.com/realBoltDev/skinport.js) - A fully typed package for interacting with Skinport API.
 - [cs2-inspect-service](https://github.com/pricempire/cs2-inspect-service) - CS2 Inspect Server
 - [CSFloat Async API Client (Unofficial)](https://github.com/Rushifakami/csfloat_api) - An unofficial, asynchronous Python library for interacting with the CSFloat API. This library provides full support for programmatic access to listings, buy orders, user data, exchange rates, and more. All prices returned by the server are in cents.
@@ -56,6 +55,8 @@
 - [cs-trader-app](https://github.com/yagatho/cs-trader-app) - Simple market searching and trading app for cs2
 - [Steam Market Search](https://github.com/DrKain/steam-market-search) - A fast and lightweight node package used to search the steam community market
 - [SCM Price History](https://github.com/HilliamT/scm-price-history) - A userless solution for getting an item's price history on the Steam Community Market
+- [Buff.163 and Bitskins price comparator(old)](https://github.com/Vincentelias/buff163-bitskins-price-comparator) - Program that compares the lowest selling prices of csgo items on buff.163 to those on bitskins
+- [node-steam-market-fetcher](https://github.com/SnaBe/node-steam-market-fetcher) - A Node.js wrapper for the Steam Community Market API.
 
 ### Investment Analysis
 
@@ -71,3 +72,7 @@
 ### Others
 
 - [CSFloatStallChecker](https://github.com/krisgfx9/CSFloatStallChecker) - This is a simple code that will check your CsFfloat Stall and let you know/Notify you through Discord if something has been sold on your CSFloat Stall.
+- [steamcommunity-market-price-forecaster](https://github.com/morganaxmu/steamcommunity-market-price-forecaster) - A tool which aims to obtain expection of price of item in steamcommunity market
+- [CSGOItemDB](https://github.com/andrewda/CSGOItemDB) - An API to retrieve accurate CS:GO prices for high- and low-tier items
+- [gfapi](https://github.com/gameflip/gfapi) - Node.js API bindings and sample code create Gameflip listings for Steam items
+- [Steam Tokenizer](https://github.com/cairoeth/steamtokenizer) - A tool that bridges Steam digital assets by creating a Non-Fungible Token (NFT) backed by the corresponding asset stored in an escrow. The tool allows tokenizing any tradable asset, including trading cards, profile wallpapers, Dota 2 heroes, and CS:GO skins. 🌉
