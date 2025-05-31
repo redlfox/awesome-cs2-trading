@@ -5,12 +5,16 @@
 
 - [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/shipment solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
 - [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade) - Automate CSFloat trade, written in python and based on aiosteampy.
-- [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market
 - [Casemove](https://github.com/nombersDev/casemove) - A dedicated desktop app that enables you to move items in and out of storage units in CS2.
 - [node-globaloffensive](https://github.com/DoctorMcKay/node-globaloffensive) - A Node.js module to connect to and interact with the CS2 game coordinator. Mostly used to get item data.
 - [buff2steam](https://github.com/hldh214/buff2steam) - Find item which cheaper than steamcommunity from buff
-- [steam_csfloat_rust](https://github.com/Soniclev/steam_csfloat_rust) - Csfloat.com to Steam price monitoring
 - [ruff](https://github.com/Lol3rrr/ruff) - A Prometheus exporter for buff163
+
+### Monitoring
+
+- [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market
+- [steam_csfloat_rust](https://github.com/Soniclev/steam_csfloat_rust) - Csfloat.com to Steam price monitoring
+- [cs2_skins_crawler](https://github.com/andr3i-f/cs2_skins_crawler) - Monitors CS2 skin marketplaces for good discounts
 
 ### Information
 
@@ -29,6 +33,8 @@
 - [skinport.py](https://github.com/PaxxPatriot/skinport.py) - An API wrapper for the Skinport API written in Python.
 - [cs-float-scripts](https://github.com/JA-Marshall/cs-float-scripts) - library for interacting with the cs float api
 - [skinport](https://github.com/barnumbirr/skinport) - A Python wrapper around the Skinport API.
+- [gfapi](https://github.com/gameflip/gfapi) - Node.js API bindings and sample code create Gameflip listings for Steam items
+- [skinport.js](https://github.com/realBoltDev/skinport.js) - A fully typed package for interacting with Skinport API.
 
 ### Investment Analysis
 
