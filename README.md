@@ -29,10 +29,13 @@
 
 ### Browser Tools
 
-- [Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
-- [csgo-trader-extension](https://github.com/gergelyszabo94/csgo-trader-extension) - CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more
-- [BetterFloat](https://github.com/GODrums/BetterFloat) - Enhance your website experience on 9+ CS2 skin markets
-- [markets-scripts](https://github.com/ricardocefet2018/markets-scripts)
+- [Steam Economy Enhancer(userscript)](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
+- [CSGO Trader(extension)](https://github.com/gergelyszabo94/csgo-trader-extension) - CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more
+- [Steam inventory helper(extension)](https://steaminventoryhelper.com/) - Steam inventory helper is a free browser extension for Steam
+- [CSFloat Market Checker(extension)](https://github.com/csfloat/extension) - Shows the float value, paint seed, and more of Counter-Strike (CS:GO & CS2) items on the Steam Market or Inventories
+- [BetterFloat(extension)](https://github.com/GODrums/BetterFloat) - Enhance your website experience on 9+ CS2 skin markets
+- [Augmented Steam(extension)](https://chromewebstore.google.com/detail/augmented-steam/dnhpnfgdlenaccegplpojghhmaamnnfp) - Augmented Steam is a browser extension by IsThereAnyDeal that improves your experience on the Steam platform by providing helpful information and tons of customization options.
+- [markets-scripts(javascript)](https://github.com/ricardocefet2018/markets-scripts)
 
 ### Libraries
 
