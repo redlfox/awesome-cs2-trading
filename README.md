@@ -3,12 +3,15 @@
 
 ### General
 
-- [SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn. 
+- [SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
 - [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/shipment solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
 - [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade) - Automate CSFloat trade, written in python and based on aiosteampy.
-- [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market 
+- [steam_csmoney](https://github.com/Soniclev/steam_csmoney) - A system for monitoring items prices between CS.MONEY and the Steam market
 - [Casemove](https://github.com/nombersDev/casemove) - A dedicated desktop app that enables you to move items in and out of storage units in CS2.
 - [node-globaloffensive](https://github.com/DoctorMcKay/node-globaloffensive) - A Node.js module to connect to and interact with the CS2 game coordinator. Mostly used to get item data.
+- [buff2steam](https://github.com/hldh214/buff2steam) - Find item which cheaper than steamcommunity from buff
+- [steam_csfloat_rust](https://github.com/Soniclev/steam_csfloat_rust) - Csfloat.com to Steam price monitoring
+- [ruff](https://github.com/Lol3rrr/ruff) - A Prometheus exporter for buff163
 
 ### Information
 
@@ -18,9 +21,11 @@
 
 ### Browser Tools
 
-- [Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market. 
+- [Steam-Economy-Enhancer](https://github.com/Nuklon/Steam-Economy-Enhancer) - Enhances the Steam Inventory and Steam Market.
 - [csgo-trader-extension](https://github.com/gergelyszabo94/csgo-trader-extension) - CSGO Trader Browser Extension to help with CS:GO item trading, marketing and much more
 
 ### Libraries
 
 - [aiosteampy](https://github.com/somespecialone/aiosteampy) - Trade and interact with Steam market, WebAPI, SteamGuard.
+- [skinport.py](https://github.com/PaxxPatriot/skinport.py) - An API wrapper for the Skinport API written in Python.
+- [cs-float-scripts](https://github.com/JA-Marshall/cs-float-scripts) - library for interacting with the cs float api
