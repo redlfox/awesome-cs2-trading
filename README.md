@@ -69,6 +69,7 @@
 - [CSGOHunt.com-Copy](https://github.com/Baterka/CSGOHunt.com-Copy) - Almost identical copy of CSGOHunt.com
 - [CSTradeWebsite](https://github.com/PhanuphongSariten/CSTradeWebsite) - WebsiteAutomateSystemForCS - A website that collects product URL links, and can edit the URL links, including importing Dashboard data from product pages in Spreadsheets - written in Html
 - [csinvest-connector](https://github.com/softwerk-org/csinvest-connector)
+- [CSFairTrade](https://github.com/RaymondSWE/CS2-Marketplace) - Full-stack application enabling users to trade, sell, and buy in-game items from CS2 (Counter-Strike 2). Built with React, Framer Motion, Node.js, Express.js and MySQL. Features user authentication and Steam market integration
 
 ### Others
 
