@@ -17,6 +17,7 @@
 - [CS2 Case Tracker](https://csgocasetracker.com) - Tracking the volume of CS2 cases unboxed.
 - [SteamTradingSiteTracker-Data](https://github.com/EricZhu-42/SteamTradingSiteTracker-Data) - Data dumps for SteamTradingSiteTracker (www.iflow.work)
 - [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898.
+- [Steam item name ids](https://github.com/somespecialone/steam-item-name-ids) - 🧾 List of SteamMarket item name ids
 - [vice](https://github.com/Delioos/vice) - counter strike third party sites price aggregator
 - [cs2-items-schema](https://github.com/somespecialone/cs2-items-schema) - 📖 Schema of CS2 (ex. CSGO) items
 - [CS2 trading sites - complete list](https://docs.google.com/spreadsheets/d/1qrNxvPJOLIg4ZKV_fv3YzY7c95WXad_y8d99M7K4RLM/edit?usp=sharing) - from reddit user u/MindReflex that posted this many times. The table is good, but missing certain sites such as youpin898 and igxe(2025-6-1).
