@@ -17,6 +17,7 @@
 - [steam_csfloat_rust](https://github.com/Soniclev/steam_csfloat_rust) - Csfloat.com to Steam price monitoring
 - [cs2_skins_crawler](https://github.com/andr3i-f/cs2_skins_crawler) - Monitors CS2 skin marketplaces for good discounts
 - [CS Skins Marketplace Scraper](https://github.com/white67/cs_skins_scraper) - Real-time marketplace scraper to track and find favorite items
+- [FloatMon](https://github.com/icryo/FloatMon) - A Discord bot for monitoring new CS:GO item listings based on specific search parameters.
 
 ### Information
 
@@ -44,6 +45,7 @@
 - [cs2-inspect-service](https://github.com/pricempire/cs2-inspect-service) - CS2 Inspect Server
 - [CSFloat Async API Client (Unofficial)](https://github.com/Rushifakami/csfloat_api) - An unofficial, asynchronous Python library for interacting with the CSFloat API. This library provides full support for programmatic access to listings, buy orders, user data, exchange rates, and more. All prices returned by the server are in cents.
 - [csfloat.py](https://github.com/PaxxPatriot/csfloat.py) - An API wrapper for the CSFloat API written in Python.
+- [cs-trader-app](https://github.com/yagatho/cs-trader-app) - Simple market searching and trading app for cs2
 
 ### Investment Analysis
 
@@ -55,3 +57,7 @@
 - [CSGOHunt.com-Copy](https://github.com/Baterka/CSGOHunt.com-Copy) - Almost identical copy of CSGOHunt.com
 - [CSTradeWebsite](https://github.com/PhanuphongSariten/CSTradeWebsite) - WebsiteAutomateSystemForCS - A website that collects product URL links, and can edit the URL links, including importing Dashboard data from product pages in Spreadsheets - written in Html
 - [csinvest-connector](https://github.com/softwerk-org/csinvest-connector)
+
+### Others
+
+- [CSFloatStallChecker](https://github.com/krisgfx9/CSFloatStallChecker) - This is a simple code that will check your CsFfloat Stall and let you know/Notify you through Discord if something has been sold on your CSFloat Stall.
