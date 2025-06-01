@@ -76,7 +76,6 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 ### Web Services
 
 - [SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker) - Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP & ECO 挂刀比例数据 | Track cheap Steam Community Market items on buff.163.com, igxe.cn, c5game.com, youpin898.com and ecosteam.cn.
-- [CSGOHunt.com-Copy](https://github.com/Baterka/CSGOHunt.com-Copy) - Almost identical copy of CSGOHunt.com
 - [CSTradeWebsite](https://github.com/PhanuphongSariten/CSTradeWebsite) - WebsiteAutomateSystemForCS - A website that collects product URL links, and can edit the URL links, including importing Dashboard data from product pages in Spreadsheets - written in Html
 - [csinvest-connector](https://github.com/softwerk-org/csinvest-connector)
 - [CSFairTrade](https://github.com/RaymondSWE/CS2-Marketplace) - Full-stack application enabling users to trade, sell, and buy in-game items from CS2 (Counter-Strike 2). Built with React, Framer Motion, Node.js, Express.js and MySQL. Features user authentication and Steam market integration
@@ -88,3 +87,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [CSGOItemDB](https://github.com/andrewda/CSGOItemDB) - An API to retrieve accurate CS:GO prices for high- and low-tier items
 - [gfapi](https://github.com/gameflip/gfapi) - Node.js API bindings and sample code create Gameflip listings for Steam items
 - [Steam Tokenizer](https://github.com/cairoeth/steamtokenizer) - A tool that bridges Steam digital assets by creating a Non-Fungible Token (NFT) backed by the corresponding asset stored in an escrow. The tool allows tokenizing any tradable asset, including trading cards, profile wallpapers, Dota 2 heroes, and CS:GO skins. 🌉
+
+### Off-topic
+
+- [CSGOHunt.com-Copy](https://github.com/Baterka/CSGOHunt.com-Copy) - Almost identical copy of CSGOHunt.com
