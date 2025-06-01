@@ -1,5 +1,5 @@
 # Awesome Counter-Strike 2 Marketing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> 😎 A curated list of packages and resources regarding Steam Market and Counter-Strike 2 marketing.
+> 😎 A curated list of packages and resources regarding Steam Community Market and Counter-Strike 2 marketing.
 
 ### General
 
