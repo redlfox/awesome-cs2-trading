@@ -1,6 +1,14 @@
 # Awesome Counter-Strike 2 Trading [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > 😎 A curated list of packages and resources regarding Steam Community Market and Counter-Strike 2 trading.
 
+### Steam Guard
+
+Add a Steam Guard to your accounts on these programs doesn't require a phone number.
+
+[Steam Desktop Authenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
+[steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. Note:can't run on arm64 systems.
+[Strongbox](https://strongboxsafe.com/) - iOS and macOS KeePass Password Manager. Note: support importing Steam Guard.
+
 ### General
 
 - [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/shipment solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
