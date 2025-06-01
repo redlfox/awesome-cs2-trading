@@ -5,9 +5,10 @@
 
 Add a Steam Guard to your accounts on these programs doesn't require a phone number.
 
-[Steam Desktop Authenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
-[steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. Note:can't run on arm64 systems.
-[Strongbox](https://strongboxsafe.com/) - iOS and macOS KeePass Password Manager. Note: support importing Steam Guard.
+- [Steam Desktop Authenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
+- [steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations. Note:can't run on arm64 systems.
+- [Stratum](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+- [Strongbox](https://strongboxsafe.com/) - iOS and macOS KeePass Password Manager. Note: support importing Steam Guard.
 
 ### General
 
