@@ -88,6 +88,8 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [CSGOItemDB](https://github.com/andrewda/CSGOItemDB) - An API to retrieve accurate CS:GO prices for high- and low-tier items
 - [gfapi](https://github.com/gameflip/gfapi) - Node.js API bindings and sample code create Gameflip listings for Steam items
 - [Steam Tokenizer](https://github.com/cairoeth/steamtokenizer) - A tool that bridges Steam digital assets by creating a Non-Fungible Token (NFT) backed by the corresponding asset stored in an escrow. The tool allows tokenizing any tradable asset, including trading cards, profile wallpapers, Dota 2 heroes, and CS:GO skins. 🌉
+- [🚀 Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
+- [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
 ### Off-topic
 
