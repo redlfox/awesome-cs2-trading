@@ -2,7 +2,7 @@
 > 😎 A curated list of packages and resources regarding Steam Community Market and Counter-Strike 2 trading.
 ### Recommended regions based on in-game purchase price(6/8/2025)
 
-- Left side is cheaper: Indonesia < Vietnam < China
+- Left side is cheaper: Indonesia < Vietnam < China < India
 
 ### Steam Guard
 
