@@ -18,8 +18,9 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [Awesome Steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
 - [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/shipment solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
 - [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade) - Automate CSFloat trade, written in python and based on aiosteampy.
-- [Casemove](https://github.com/nombersDev/casemove) - A dedicated desktop app that enables you to move items in and out of storage units in CS2.
-- [Skinledger](https://skinledger.com/) - From the creator of Casemove, Skinledger is a all-in-one desktop client and web app for tracking your skins.
+- [CSFloat-Helper(GUI)](https://github.com/gradinazz/CSFloat-Helper) - csfloat helper - fast sell, delist and change price.
+- [Casemove(GUI)](https://github.com/nombersDev/casemove) - A dedicated desktop app that enables you to move items in and out of storage units in CS2.
+- [Skinledger(GUI)](https://skinledger.com/) - From the creator of Casemove, Skinledger is a all-in-one desktop client and web app for tracking your skins.
 - [Perfect World Esports APP](https://app.pwesports.cn/) - Supports storage unit transfers.
 - [node-globaloffensive](https://github.com/DoctorMcKay/node-globaloffensive) - A Node.js module to connect to and interact with the CS2 game coordinator. Mostly used to get item data.
 - [buff2steam](https://github.com/hldh214/buff2steam) - Find item which cheaper than steamcommunity from buff
