@@ -18,6 +18,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [Awesome Steam](https://github.com/scholtzm/awesome-steam) - 😎 A curated list of packages and resources regarding Steam development
 - [Steamauto](https://github.com/Steamauto/Steamauto) - Free and open-source fully automated reciving/shipment solution for NetEase BUFF, YouYou YouPin, ECOsteam, C5Game, and Steam.
 - [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade) - Automate CSFloat trade, written in python and based on aiosteampy.
+- [CSFloat-Auto-Trade-Patched](https://github.com/redlfox/CSFloat-Auto-Trade-Patched) - Patched fork of [CSFloat-Auto-Trade](https://github.com/gradinazz/CSFloat-Auto-Trade).
 - [CSFloat-Helper(GUI)](https://github.com/gradinazz/CSFloat-Helper) - csfloat helper - fast sell, delist and change price.
 - [Casemove(GUI)](https://github.com/nombersDev/casemove) - A dedicated desktop app that enables you to move items in and out of storage units in CS2.
 - [Skinledger(GUI)](https://skinledger.com/) - From the creator of Casemove, Skinledger is a all-in-one desktop client and web app for tracking your skins.
