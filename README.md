@@ -37,6 +37,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [vice](https://github.com/Delioos/vice) - counter strike third party sites price aggregator
 - [cs2-items-schema](https://github.com/somespecialone/cs2-items-schema) - 📖 Schema of CS2 (ex. CSGO) items
 - [CS2 trading sites - complete list](https://docs.google.com/spreadsheets/d/1qrNxvPJOLIg4ZKV_fv3YzY7c95WXad_y8d99M7K4RLM/edit?usp=sharing) - from reddit user u/MindReflex that posted this many times. The table is good, but missing certain sites such as youpin898 and igxe(2025-6-1).
+- [RandomProgramm3r/Steam-Market-Parser: A parser for the Steam Community Market.](https://github.com/RandomProgramm3r/Steam-Market-Parser)
 
 ### Monitoring
 
@@ -96,6 +97,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [Steam Tokenizer](https://github.com/cairoeth/steamtokenizer) - A tool that bridges Steam digital assets by creating a Non-Fungible Token (NFT) backed by the corresponding asset stored in an escrow. The tool allows tokenizing any tradable asset, including trading cards, profile wallpapers, Dota 2 heroes, and CS:GO skins. 🌉
 - [🚀 Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+- [Citrinate/Steam-MarketableApps: A list with Steam apps that've got marketable trading cards](https://github.com/Citrinate/Steam-MarketableApps)
 
 ### Off-topic
 
