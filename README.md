@@ -64,6 +64,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [aiosteampy](https://github.com/somespecialone/aiosteampy) - Trade and interact with Steam market, WebAPI, SteamGuard.
 - [steam.py](https://github.com/Gobot1234/steam.py) - An async python wrapper to interact with the Steam API and its CMs
 - [steampy](https://github.com/bukson/steampy) - A Steam trading library for python 3
+- [DoctorMcKay/node-globaloffensive: A Node.js module to connect to and interact with the CS2 game coordinator. Mostly used to get item data.](https://github.com/DoctorMcKay/node-globaloffensive)
 - [skinport.py](https://github.com/PaxxPatriot/skinport.py) - An API wrapper for the Skinport API written in Python.
 - [cs-float-scripts](https://github.com/JA-Marshall/cs-float-scripts) - library for interacting with the cs float api
 - [skinport](https://github.com/barnumbirr/skinport) - A Python wrapper around the Skinport API.
@@ -98,6 +99,9 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [🚀 Idle Master Extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Citrinate/Steam-MarketableApps: A list with Steam apps that've got marketable trading cards](https://github.com/Citrinate/Steam-MarketableApps)
+- [theKerosen/AstraNet: This is AstraNet, my most ambicious project yet.](https://github.com/theKerosen/AstraNet)
+- [primabrucexu/CS2](https://github.com/primabrucexu/CS2)
+- [854771076/Probe-CS2Spider: cs2游戏饰品平台爬虫，网页buff，悠悠有品，igxe，steam，c5平台爬虫](https://github.com/854771076/Probe-CS2Spider)
 
 ### Off-topic
 
