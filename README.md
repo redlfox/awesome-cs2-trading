@@ -38,6 +38,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [cs2-items-schema](https://github.com/somespecialone/cs2-items-schema) - 📖 Schema of CS2 (ex. CSGO) items
 - [CS2 trading sites - complete list](https://docs.google.com/spreadsheets/d/1qrNxvPJOLIg4ZKV_fv3YzY7c95WXad_y8d99M7K4RLM/edit?usp=sharing) - from reddit user u/MindReflex that posted this many times. The table is good, but missing certain sites such as youpin898 and igxe(2025-6-1).
 - [RandomProgramm3r/Steam-Market-Parser: A parser for the Steam Community Market.](https://github.com/RandomProgramm3r/Steam-Market-Parser)
+- [SkinAPI](https://skinapi.skinvaults.online) - REST API for CS2 skin prices aggregated across marketplaces, float values, Steam inventories and profiles. Free tier.
 
 ### Monitoring
 
@@ -79,6 +80,8 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [node-steam-market-fetcher](https://github.com/SnaBe/node-steam-market-fetcher) - A Node.js wrapper for the Steam Community Market API.
 - [woctezuma/steam-market: Find arbitrages on the Steam Market.](https://github.com/woctezuma/steam-market)
 - [Allyans3/steam-market-api-v2: Steam Market API v2 package](https://github.com/Allyans3/steam-market-api-v2)
+- [skinapi-js](https://github.com/soccervortex/skinapi-js) - A typed Node.js/JavaScript client for SkinAPI (CS2 prices, floats, inventories).
+- [skinapi-sdk](https://github.com/soccervortex/skinapi-py) - A Python client for SkinAPI (CS2 prices, floats, inventories).
 
 ### Investment Analysis
 
