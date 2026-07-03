@@ -79,6 +79,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [node-steam-market-fetcher](https://github.com/SnaBe/node-steam-market-fetcher) - A Node.js wrapper for the Steam Community Market API.
 - [woctezuma/steam-market: Find arbitrages on the Steam Market.](https://github.com/woctezuma/steam-market)
 - [Allyans3/steam-market-api-v2: Steam Market API v2 package](https://github.com/Allyans3/steam-market-api-v2)
+- [CSAlpha API](https://csalpha.net/api) - Live CS2 skin price & float data aggregated from CSFloat, DMarket, and Skinport, refreshed every ~5 minutes. Powers the CSAlpha trade-up finder.
 
 ### Investment Analysis
 
