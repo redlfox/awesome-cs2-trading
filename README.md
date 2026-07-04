@@ -30,6 +30,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 ### Information
 
 - [SteamDT](https://steamdt.com/en) - SteamDT CS Skin Price Trends_CS2 Market Overview_CSGO Skin Market_CS Skin Index_CS2 Inventory Valuation
+- [Clutch](https://clutch.deals) - Compare CS2 skin prices across marketplaces to find the cheapest buy, with price history, float data, price alerts and inventory value tracking
 - [CS2 Case Tracker](https://csgocasetracker.com) - Tracking the volume of CS2 cases unboxed.
 - [SteamTradingSiteTracker-Data](https://github.com/EricZhu-42/SteamTradingSiteTracker-Data) - Data dumps for SteamTradingSiteTracker (www.iflow.work)
 - [cs2-marketplace-ids](https://github.com/ModestSerhat/cs2-marketplace-ids) - Many Item and Item Related IDs of CS2 items on buff163 and Youpin898.
