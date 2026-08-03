@@ -58,6 +58,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [Steam Market Price Moving Average(userscript, Chinese Only)](https://greasyfork.org/en/scripts/491198-steam-%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%A0%BC%E5%9D%87%E7%BA%BF) - Displays the moving average for any date on the historical transaction prices on the Steam market.
 - [Steam Market Extender(extension, old)](https://github.com/AcornEyes/SteamMarketExtender) - Detailed graphs for the steam community market. Indicators added to chart: SMA, EMA, RSI, ATR.
 - [markets-scripts(javascript)](https://github.com/ricardocefet2018/markets-scripts)
+- [Steam Market Fee Calculator](https://github.com/hyunjun12312/steam-market-fee-calculator) - Open-source buyer price, seller proceeds, and fee calculator with a [live demo](https://steamvaults.org/tools/steam-market-fee-calculator).
 
 ### Libraries
 
