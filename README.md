@@ -58,6 +58,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [Steam Market Price Moving Average(userscript, Chinese Only)](https://greasyfork.org/en/scripts/491198-steam-%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%A0%BC%E5%9D%87%E7%BA%BF) - Displays the moving average for any date on the historical transaction prices on the Steam market.
 - [Steam Market Extender(extension, old)](https://github.com/AcornEyes/SteamMarketExtender) - Detailed graphs for the steam community market. Indicators added to chart: SMA, EMA, RSI, ATR.
 - [markets-scripts(javascript)](https://github.com/ricardocefet2018/markets-scripts)
+- [Skinstrack(extension)](https://skinstrack.com/tools/cs2-extension) - Shows Steam inventory value, trade offer totals, prices on item tiles and market price badges
 
 ### Libraries
 
@@ -90,6 +91,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [CSTradeWebsite](https://github.com/PhanuphongSariten/CSTradeWebsite) - WebsiteAutomateSystemForCS - A website that collects product URL links, and can edit the URL links, including importing Dashboard data from product pages in Spreadsheets - written in Html
 - [csinvest-connector](https://github.com/softwerk-org/csinvest-connector)
 - [CSFairTrade](https://github.com/RaymondSWE/CS2-Marketplace) - Full-stack application enabling users to trade, sell, and buy in-game items from CS2 (Counter-Strike 2). Built with React, Framer Motion, Node.js, Express.js and MySQL. Features user authentication and Steam market integration
+- [Skinstrack](https://skinstrack.com/) - Free CS2 skin price tracker that compares prices across markets, with price history, alerts and a public API
 
 ### Others
 
