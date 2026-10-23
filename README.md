@@ -46,6 +46,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [cs2_skins_crawler](https://github.com/andr3i-f/cs2_skins_crawler) - Monitors CS2 skin marketplaces for good discounts
 - [CS Skins Marketplace Scraper](https://github.com/white67/cs_skins_scraper) - Real-time marketplace scraper to track and find favorite items
 - [FloatMon](https://github.com/icryo/FloatMon) - A Discord bot for monitoring new CS:GO item listings based on specific search parameters.
+- [cs2-ticker](https://github.com/andrewkreil/cs2-ticker) - Real-time cross-market price spread and Skinport snipe telemetry system with open datasets and a [free web-accessible live feed](https://t.me/s/cs2_snipe_radar_free).
 
 ### Browser Tools
 
