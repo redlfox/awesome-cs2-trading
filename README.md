@@ -54,6 +54,7 @@ Add a Steam Guard to your accounts on these programs doesn't require a phone num
 - [Steam inventory helper(extension)](https://steaminventoryhelper.com/) - Steam inventory helper is a free browser extension for Steam
 - [CSFloat Market Checker(extension)](https://github.com/csfloat/extension) - Shows the float value, paint seed, and more of Counter-Strike (CS:GO & CS2) items on the Steam Market or Inventories
 - [BetterFloat(extension)](https://github.com/GODrums/BetterFloat) - Enhance your website experience on 9+ CS2 skin markets
+- [QuickTrade.skin(web app + extension)](https://quicktrade.skin) - Seller dashboard: list one item on several P2P markets at once (CSFloat, CS.MONEY, BUFF, White.market, ShadowPay), scheduled repricing, instant-sell quote comparison across ~20 markets and trade history.
 - [Augmented Steam(extension)](https://github.com/IsThereAnyDeal/AugmentedSteam) - Augmented Steam is a browser extension by IsThereAnyDeal that improves your experience on the Steam platform by providing helpful information and tons of customization options.
 - [Steam Market Price Moving Average(userscript, Chinese Only)](https://greasyfork.org/en/scripts/491198-steam-%E5%B8%82%E5%9C%BA%E4%BB%B7%E6%A0%BC%E5%9D%87%E7%BA%BF) - Displays the moving average for any date on the historical transaction prices on the Steam market.
 - [Steam Market Extender(extension, old)](https://github.com/AcornEyes/SteamMarketExtender) - Detailed graphs for the steam community market. Indicators added to chart: SMA, EMA, RSI, ATR.
